@@ -8,7 +8,18 @@ In childhoold we use to play this game a lot. In this game, We have to kill alie
 
 ## Built with
 
-- pygame
-- mixer
+- Python
+- pygame module
+- mixer module
 
 ## About Game 
+
+### Initial stage
+<image src='https://github.com/Kalaria-Bhargav/Python-SpaceShooter/blob/master/Initial.PNG?raw=true' height=600 width=700/>
+
+### Running stage
+<image src='https://github.com/Kalaria-Bhargav/Python-SpaceShooter/blob/master/run.jpg?raw=true' height=600 width=700/>
+
+### Game Over stage
+<image src='https://github.com/Kalaria-Bhargav/Python-SpaceShooter/blob/master/over.PNG?raw=true' height=600 width=700/>
+
